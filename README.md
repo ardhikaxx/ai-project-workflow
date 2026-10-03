@@ -46,6 +46,7 @@ Semua file berada di folder yang sama dengan repository (disarankan di `docs/ai-
 
 ```text
 docs/ai-os/
+├── QUICKSTART-VIBE-CODER.md    # Panduan instan 60 detik untuk Vibe Coder & pemula
 ├── README.md                   # Entry point manusia + AI (file ini)
 ├── 00-MASTER-SYSTEM.md         # System prompt global, berlaku untuk semua file
 ├── 01-PROJECT-BRIEF.md         # Konfigurasi proyek, satu-satunya file yang WAJIB diedit per proyek
